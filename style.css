@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 0%;
+   
+}
+h2 {
+    text-align: center;
+    margin: 1%;
+}
+.linkedin{
+    text-decoration:none;
+}
+.github{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    max-width: 100px;
+    float: right;
+    clear: right;
+    position: relative;
+    top: -100px;
+}
+.number{
+    text-align: center;
+    left: 40%;
+
+}
